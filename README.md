@@ -7,8 +7,11 @@ The project includes a Streamlit web application that allows users to upload ima
 ## Key Features:
 
 -Real-time detection of potholes and speed breakers using YOLOv11
+
 -Custom dataset annotation and preprocessing via Roboflow
+
 -Interactive Streamlit interface for image/video uploads
+
 -Achieved strong model performance with mAP@0.5: 0.75, Precision: 0.85, Recall: 0.74
 
 -Tech Stack: Python, YOLOv11 (Ultralytics), OpenCV, Streamlit, NumPy, Pandas, Matplotlib
